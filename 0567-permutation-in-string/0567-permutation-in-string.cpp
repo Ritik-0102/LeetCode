@@ -1,13 +1,5 @@
 class Solution {
 public:
-    bool isEqual(vector<int>& v1,vector<int>& v2){
-        for(int i=0;i<26;i++){
-            if(v1[i]!=v2[i]){
-                return false;
-            }
-        }
-        return true;
-    }
     bool checkInclusion(string s1, string s2) {
         vector<int> freq(26,0);
 
@@ -24,7 +16,7 @@ public:
                 currfreq[s2[x] - 'a']++;
             }
 
-            if(isEqual(currfreq,freq)){
+            if(currfreq == freq){
                 return true;
             }
             i++;

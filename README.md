@@ -44,8 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

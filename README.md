@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ritik0102-bit/LeetCode/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ritik0102-bit/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ritik0102-bit/LeetCode/tree/master/0075-sort-colors) |
+| [0204-count-primes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0204-count-primes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ritik0102-bit/LeetCode/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

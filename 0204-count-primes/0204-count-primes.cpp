@@ -10,11 +10,11 @@ public:
         for(int i=2;i<n;i++){
             if(prime[i]){
                 count_prime++;
-            }
 
-            // Multiples of i should be marked false now
-            for(long long j = (long long)i * i; j < n; j += i) {
-                prime[j] = false;
+                // Multiples of i should be marked false now
+                for(long long j = (long long)i * i; j < n; j += i) {
+                    prime[j] = false;
+                }
             }
         }
 

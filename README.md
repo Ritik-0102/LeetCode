@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/Ritik0102-bit/LeetCode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Ritik0102-bit/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ritik0102-bit/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ritik0102-bit/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Ritik0102-bit/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ritik0102-bit/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Ritik0102-bit/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0204-count-primes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Ritik0102-bit/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1572-matrix-diagonal-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ritik0102-bit/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Ritik0102-bit/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Matrix
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ritik0102-bit/LeetCode/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritik0102-bit/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Recursion
 |  |

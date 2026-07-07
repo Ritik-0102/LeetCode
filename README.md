@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ritik0102-bit/LeetCode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Ritik0102-bit/LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/Ritik0102-bit/LeetCode/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Ritik0102-bit/LeetCode/tree/master/0067-add-binary) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritik0102-bit/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Ritik0102-bit/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

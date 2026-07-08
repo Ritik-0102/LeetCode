@@ -8,8 +8,8 @@ public:
 
         for(int i=0;i<n;i++){
             // To avoid duplicate triplets
-            while(i>0 && i<n && arr[i] == arr[i-1]){
-                i++;
+            if(i>0 && arr[i] == arr[i-1]){
+                continue;
             }
 
             int j=i+1;

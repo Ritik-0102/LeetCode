@@ -8,13 +8,15 @@ public:
 
         int n = arr.size();
 
-        for(int i=0;i<n;i++){
-            // To Handle Duplicate values
+        for(int i=0;i<n-3;i++){
+            // Handle duplicate values for i
             if(i > 0 && arr[i]==arr[i-1]){
                 continue;
             }
 
-            for(int j = i+1 ; j<n;){                
+            for(int j = i+1 ; j<n-2;j++){     
+                // Handle duplicate values for j
+                if (j > i + 1 && arr[j] == arr[j - 1]) continue;           
                 int p = j+1;
                 int q = n-1;
 
@@ -27,7 +29,7 @@ public:
                         q--;
 
                         // To Handle Duplicate values
-                        while(p < arr.size() && arr[p]==arr[p-1]){
+                        while(p < n && arr[p]==arr[p-1]){
                             p++;
                         }
                     } 
@@ -37,12 +39,6 @@ public:
                     else{
                         q--;
                     }
-                }
-
-                j++;
-                // To Handle Duplicate values
-                while(j < arr.size() && arr[j]==arr[j-1]){
-                    j++;
                 }
             }
         }

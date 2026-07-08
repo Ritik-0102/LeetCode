@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ritik0102-bit/LeetCode/tree/master/0037-sudoku-solver) |
 | [0383-ransom-note](https://github.com/Ritik0102-bit/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritik0102-bit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0567-permutation-in-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Ritik0102-bit/LeetCode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Ritik0102-bit/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Ritik0102-bit/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ritik0102-bit/LeetCode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Ritik0102-bit/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ritik0102-bit/LeetCode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Ritik0102-bit/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ritik0102-bit/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Ritik0102-bit/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ritik0102-bit/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ritik0102-bit/LeetCode/tree/master/0078-subsets) |

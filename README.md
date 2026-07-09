@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Ritik0102-bit/LeetCode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Ritik0102-bit/LeetCode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ritik0102-bit/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ritik0102-bit/LeetCode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Ritik0102-bit/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ritik0102-bit/LeetCode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ritik0102-bit/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ritik0102-bit/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ritik0102-bit/LeetCode/tree/master/0078-subsets) |

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Ritik0102-bit/LeetCode/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ritik0102-bit/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/Ritik0102-bit/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## String Matching
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Ritik0102-bit/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1572-matrix-diagonal-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2596-check-knight-tour-configuration](https://github.com/Ritik0102-bit/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ritik0102-bit/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritik0102-bit/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ritik0102-bit/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [2596-check-knight-tour-configuration](https://github.com/Ritik0102-bit/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ritik0102-bit/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -175,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0509-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Ritik0102-bit/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Ritik0102-bit/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->

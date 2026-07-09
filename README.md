@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Ritik0102-bit/LeetCode/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/Ritik0102-bit/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Ritik0102-bit/LeetCode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Ritik0102-bit/LeetCode/tree/master/0443-string-compression) |
@@ -164,9 +165,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Ritik0102-bit/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ritik0102-bit/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Ritik0102-bit/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Ritik0102-bit/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

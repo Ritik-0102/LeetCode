@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Ritik0102-bit/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0707-design-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |

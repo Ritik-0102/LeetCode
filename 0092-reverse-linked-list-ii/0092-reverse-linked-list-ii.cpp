@@ -26,7 +26,7 @@ public:
     }
 
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if(left == right || left == right == 1){
+        if(left == right){
             return head;
         }
 

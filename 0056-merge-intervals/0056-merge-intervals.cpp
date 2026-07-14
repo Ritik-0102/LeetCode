@@ -1,41 +1,26 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        int n = intervals.size();
-
-        if(n == 1){
+        if (intervals.size() <= 1) {
             return intervals;
         }
 
-        sort(intervals.begin(),intervals.end());
-
-        for(auto i:intervals){
-            cout << "[" << i[0] << "," << i[1] << "]  " ;
-        }
+        // Sort by starting points
+        sort(intervals.begin(), intervals.end());
 
         vector<vector<int>> ans;
+        // Push the first interval to start the comparison
+        ans.push_back(intervals[0]);
 
-        for(int i=0;i<n;i++){
-            if(ans.size()==0){
+        for (int i = 1; i < intervals.size(); i++) {
+            // ans.back() gives us direct access to the last merged interval
+            // If the current interval overlaps with the last one in 'ans'
+            if (ans.back()[1] >= intervals[i][0]) {
+                // Merge them by updating the end time of the last interval in 'ans'
+                ans.back()[1] = max(ans.back()[1], intervals[i][1]);
+            } else {
+                // No overlap, so we safely add it to our answer
                 ans.push_back(intervals[i]);
-            }
-            else{
-                int m = ans.size();
-                if(ans[m-1][0] == intervals[i][0] && ans[m-1][1] == intervals[i][1]){
-                    continue;
-                }
-                if(ans[m-1][0] < intervals[i][0] && ans[m-1][1] >= intervals[i][1]){
-                    continue;
-                }
-                else if(ans[m-1][0] < intervals[i][1] && ans[m-1][1] >= intervals[i][0]){
-                    int newStart = ans[m-1][0];
-                    int newEnd = intervals[i][1];
-                    ans.pop_back();
-                    ans.push_back({newStart,newEnd});
-                }
-                else{
-                    ans.push_back(intervals[i]);
-                }
             }
         }
 

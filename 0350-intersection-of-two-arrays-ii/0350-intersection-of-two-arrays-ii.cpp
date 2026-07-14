@@ -1,25 +1,23 @@
 class Solution {
 public:
-    vector<int> intersect(vector<int>& arr1, vector<int>& arr2) {
-        map<int,int> freq1;
-        map<int,int> freq2;
-
+    vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
+        unordered_map<int, int> freq;
         vector<int> ans;
-
-        for(int i:arr1){
-            freq1[i]++;
+        
+        // 1. Count frequencies of the first array only
+        for (int num : nums1) {
+            freq[num]++;
         }
-        for(int i:arr2){
-            freq2[i]++;
-        }
-
-        for(auto i:freq1){
-            int n = min(freq1[i.first],freq2[i.first]);
-            for(int j=0;j<n;j++){
-                ans.push_back(i.first);
+        
+        // 2. Iterate through the second array
+        for (int num : nums2) {
+            // If the number exists in our map and count is > 0
+            if (freq[num] > 0) {
+                ans.push_back(num);
+                freq[num]--; // Decrement the count so we don't reuse it
             }
         }
-
+        
         return ans;
     }
 };

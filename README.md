@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ritik0102-bit/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ritik0102-bit/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ritik0102-bit/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ritik0102-bit/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ritik0102-bit/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ritik0102-bit/LeetCode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Ritik0102-bit/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Ritik0102-bit/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ritik0102-bit/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ritik0102-bit/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Ritik0102-bit/LeetCode/tree/master/0056-merge-intervals) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ritik0102-bit/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Ritik0102-bit/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ritik0102-bit/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ritik0102-bit/LeetCode/tree/master/0198-house-robber) |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ritik0102-bit/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

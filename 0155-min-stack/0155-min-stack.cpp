@@ -18,23 +18,15 @@ public:
     }
     
     void pop() {
-        if(!s.empty()){
-            s.pop();
-        }
+        s.pop();
     }
     
     int top() {
-        if(!s.empty()){
-            return s.top().first;
-        }        
-        return -1;        
+        return s.top().first;       
     }
     
     int getMin() {
-        if(!s.empty()){
-            return s.top().second;
-        }
-        return -1;        
+        return s.top().second;      
     }
 };
 

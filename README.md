@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ritik0102-bit/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -290,4 +293,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ritik0102-bit/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritik0102-bit/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

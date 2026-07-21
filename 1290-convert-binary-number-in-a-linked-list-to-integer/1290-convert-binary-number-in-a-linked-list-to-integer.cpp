@@ -13,10 +13,12 @@ public:
     int getDecimalValue(ListNode* head) {
         int Binary = 0;
 
-        while(head != nullptr){
-            Binary = Binary * 2 + head->val;
+        ListNode* temp = head;
 
-            head = head->next;
+        while(temp != nullptr){
+            Binary = Binary * 2 + temp->val;
+
+            temp = temp->next;
         }
 
         return Binary;

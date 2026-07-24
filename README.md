@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ritik0102-bit/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ritik0102-bit/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Ritik0102-bit/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ritik0102-bit/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritik0102-bit/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Ritik0102-bit/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ritik0102-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Ritik0102-bit/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritik0102-bit/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ritik0102-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Ritik0102-bit/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritik0102-bit/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ritik0102-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |

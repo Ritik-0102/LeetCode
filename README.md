@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritik0102-bit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Ritik0102-bit/LeetCode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/Ritik0102-bit/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritik0102-bit/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Ritik0102-bit/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/Ritik0102-bit/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritik0102-bit/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Ritik0102-bit/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ritik0102-bit/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritik0102-bit/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Ritik0102-bit/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Ritik0102-bit/LeetCode/tree/master/0901-online-stock-span) |
 ## Greedy
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Ritik0102-bit/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Ritik0102-bit/LeetCode/tree/master/0622-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |

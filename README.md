@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ritik0102-bit/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/Ritik0102-bit/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ritik0102-bit/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ritik0102-bit/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/Ritik0102-bit/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/Ritik0102-bit/LeetCode/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Ritik0102-bit/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritik0102-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ritik0102-bit/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/Ritik0102-bit/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/Ritik0102-bit/LeetCode/tree/master/3174-clear-digits) |
 ## Simulation
 |  |

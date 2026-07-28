@@ -1,10 +1,9 @@
 class Solution {
 public:
     string reversePrefix(string s, char ch) {
-        int n = s.size();
         int idx = -1;
 
-        for(int i=0;i<n;i++){
+        for(int i=0;i<s.size();i++){
             if(s[i] == ch){
                 idx = i;
                 break;
@@ -15,15 +14,14 @@ public:
             return s;
         }
 
-        string ans = "";
-
-        for(int i=idx;i>=0;i--){
-            ans += s[i];
+        // Reverse with Two Pointer
+        int left = 0, right = idx;
+        while (left < right) {
+            swap(s[left], s[right]);
+            left++;
+            right--;
         }
-        for(int i=idx+1;i<n;i++){
-            ans += s[i];
-        }
 
-        return ans;
+        return s;
     }
 };

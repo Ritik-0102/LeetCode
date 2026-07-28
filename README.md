@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/Ritik0102-bit/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Ritik0102-bit/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/Ritik0102-bit/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/Ritik0102-bit/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Function
@@ -482,4 +486,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Ritik0102-bit/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->

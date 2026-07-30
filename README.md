@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritik0102-bit/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Ritik0102-bit/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Ritik0102-bit/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Ritik0102-bit/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ritik0102-bit/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ritik0102-bit/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Ritik0102-bit/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ritik0102-bit/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ritik0102-bit/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Function
@@ -529,4 +533,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ritik0102-bit/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->

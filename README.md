@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ritik0102-bit/LeetCode/tree/master/0645-set-mismatch) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ritik0102-bit/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritik0102-bit/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/Ritik0102-bit/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ritik0102-bit/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritik0102-bit/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritik0102-bit/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ritik0102-bit/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |

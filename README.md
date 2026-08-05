@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ritik0102-bit/LeetCode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/Ritik0102-bit/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Ritik0102-bit/LeetCode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Ritik0102-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Ritik0102-bit/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ritik0102-bit/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Ritik0102-bit/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Ritik0102-bit/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Ritik0102-bit/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Ritik0102-bit/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritik0102-bit/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Ritik0102-bit/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ritik0102-bit/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ritik0102-bit/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Ritik0102-bit/LeetCode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Ritik0102-bit/LeetCode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Ritik0102-bit/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ritik0102-bit/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Ritik0102-bit/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Ritik0102-bit/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Ritik0102-bit/LeetCode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Ritik0102-bit/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum

@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ritik0102-bit/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ritik0102-bit/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2239-find-closest-number-to-zero](https://github.com/Ritik0102-bit/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2596-check-knight-tour-configuration](https://github.com/Ritik0102-bit/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ritik0102-bit/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritik0102-bit/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |

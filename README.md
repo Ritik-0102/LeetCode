@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Ritik0102-bit/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritik0102-bit/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1544-make-the-string-great](https://github.com/Ritik0102-bit/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ritik0102-bit/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ritik0102-bit/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Ritik0102-bit/LeetCode/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritik0102-bit/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Ritik0102-bit/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ritik0102-bit/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritik0102-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Ritik0102-bit/LeetCode/tree/master/0134-gas-station) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritik0102-bit/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
 |  |
@@ -578,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ritik0102-bit/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritik0102-bit/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

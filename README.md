@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritik0102-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Ritik0102-bit/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ritik0102-bit/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ritik0102-bit/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Ritik0102-bit/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/Ritik0102-bit/LeetCode/tree/master/3174-clear-digits) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ritik0102-bit/LeetCode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Ritik0102-bit/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Ritik0102-bit/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ritik0102-bit/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ritik0102-bit/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ritik0102-bit/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ritik0102-bit/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritik0102-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ritik0102-bit/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ritik0102-bit/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ritik0102-bit/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Ritik0102-bit/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ritik0102-bit/LeetCode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Ritik0102-bit/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ritik0102-bit/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ritik0102-bit/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |

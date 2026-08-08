@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Ritik0102-bit/LeetCode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Ritik0102-bit/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0567-permutation-in-string) |
+| [0819-most-common-word](https://github.com/Ritik0102-bit/LeetCode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Ritik0102-bit/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritik0102-bit/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ritik0102-bit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Ritik0102-bit/LeetCode/tree/master/0645-set-mismatch) |
+| [0819-most-common-word](https://github.com/Ritik0102-bit/LeetCode/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ritik0102-bit/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ritik0102-bit/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritik0102-bit/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ritik0102-bit/LeetCode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Ritik0102-bit/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritik0102-bit/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0819-most-common-word](https://github.com/Ritik0102-bit/LeetCode/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/Ritik0102-bit/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ritik0102-bit/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Ritik0102-bit/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/Ritik0102-bit/LeetCode/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ritik0102-bit/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Linked List
 |  |

@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Ritik0102-bit/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Ritik0102-bit/LeetCode/tree/master/2239-find-closest-number-to-zero) |
+| [2241-design-an-atm-machine](https://github.com/Ritik0102-bit/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2596-check-knight-tour-configuration](https://github.com/Ritik0102-bit/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ritik0102-bit/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritik0102-bit/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -318,12 +319,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Ritik0102-bit/LeetCode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Ritik0102-bit/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Ritik0102-bit/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [2241-design-an-atm-machine](https://github.com/Ritik0102-bit/LeetCode/tree/master/2241-design-an-atm-machine) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Ritik0102-bit/LeetCode/tree/master/0134-gas-station) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritik0102-bit/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2241-design-an-atm-machine](https://github.com/Ritik0102-bit/LeetCode/tree/master/2241-design-an-atm-machine) |
 ## Bit Manipulation
 |  |
 | ------- |

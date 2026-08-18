@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Ritik0102-bit/LeetCode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Ritik0102-bit/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Ritik0102-bit/LeetCode/tree/master/0326-power-of-three) |
+| [0507-perfect-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ritik0102-bit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ritik0102-bit/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritik0102-bit/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ritik0102-bit/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1544-make-the-string-great](https://github.com/Ritik0102-bit/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ritik0102-bit/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ritik0102-bit/LeetCode/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/Ritik0102-bit/LeetCode/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ritik0102-bit/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ritik0102-bit/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ritik0102-bit/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritik0102-bit/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/Ritik0102-bit/LeetCode/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ritik0102-bit/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ritik0102-bit/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Linked List
 |  |
 | ------- |

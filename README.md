@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Ritik0102-bit/LeetCode/tree/master/0134-gas-station) |
+| [0397-integer-replacement](https://github.com/Ritik0102-bit/LeetCode/tree/master/0397-integer-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritik0102-bit/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2241-design-an-atm-machine](https://github.com/Ritik0102-bit/LeetCode/tree/master/2241-design-an-atm-machine) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ritik0102-bit/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0397-integer-replacement](https://github.com/Ritik0102-bit/LeetCode/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/Ritik0102-bit/LeetCode/tree/master/0645-set-mismatch) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritik0102-bit/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Recursion
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ritik0102-bit/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ritik0102-bit/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0213-house-robber-ii) |
+| [0397-integer-replacement](https://github.com/Ritik0102-bit/LeetCode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Ritik0102-bit/LeetCode/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritik0102-bit/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ritik0102-bit/LeetCode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Ritik0102-bit/LeetCode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Depth-First Search

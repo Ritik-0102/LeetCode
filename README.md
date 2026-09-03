@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Ritik0102-bit/LeetCode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Ritik0102-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Ritik0102-bit/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Ritik0102-bit/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0503-next-greater-element-ii) |

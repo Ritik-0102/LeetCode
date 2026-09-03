@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Ritik0102-bit/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ritik0102-bit/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Ritik0102-bit/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ritik0102-bit/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Ritik0102-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ritik0102-bit/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ritik0102-bit/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ritik0102-bit/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Ritik0102-bit/LeetCode/tree/master/2239-find-closest-number-to-zero) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ritik0102-bit/LeetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0912-sort-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Enumeration
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0912-sort-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
 | ------- |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ritik0102-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0912-sort-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -700,4 +705,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ritik0102-bit/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->

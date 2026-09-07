@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ritik0102-bit/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritik0102-bit/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ritik0102-bit/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ritik0102-bit/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1446-consecutive-characters](https://github.com/Ritik0102-bit/LeetCode/tree/master/1446-consecutive-characters) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Ritik0102-bit/LeetCode/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritik0102-bit/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/Ritik0102-bit/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Ritik0102-bit/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ritik0102-bit/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Memoization

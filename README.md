@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritik0102-bit/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/Ritik0102-bit/LeetCode/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ritik0102-bit/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3870-count-commas-in-range](https://github.com/Ritik0102-bit/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |

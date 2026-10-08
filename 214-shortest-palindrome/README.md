@@ -29,4 +29,4 @@
 
 ---
 
-**My Solution:** [214-Shortest-Palindrome.cpp](./214-Shortest-Palindrome.cpp)
+**My Solution:** [214-Shortest-Palindrome.java](./214-Shortest-Palindrome.java)

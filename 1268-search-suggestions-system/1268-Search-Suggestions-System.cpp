@@ -3,61 +3,50 @@ public:
     class TrieNode{
         public:
         TrieNode* children[26];
-        // Store The Whole Word at the Leaf Node
-        string word;
+        // Cache up to 3 suggestions directly in the node
+        vector<string> suggestions;
 
         TrieNode(){
-            word = "";
-            for(int i=0;i<26;i++){
+            for(int i=0; i<26; i++){
                 children[i] = nullptr;
             }
         }
     };
 
-    void helper(TrieNode* curr,vector<vector<string>>& ans,int idx){
-        if(ans[idx].size() == 3){
-            return;
-        }
-        
-        if(curr->word != ""){
-            ans[idx].push_back(curr->word);
-        }
-
-        for(int i=0;i<26;i++){
-            if(curr->children[i] != nullptr){
-                helper(curr->children[i],ans,idx);
-            }
-        }
-    }
-
     vector<vector<string>> suggestedProducts(vector<string>& products, string searchWord) {
+        // 1. Sort first to guarantee lexicographical order
+        sort(products.begin(), products.end());
+        
         TrieNode* Root = new TrieNode();
 
-        // Build Trie
-        for(string s:products){
+        // 2. Build Trie and cache suggestions on the way down
+        for(string s : products){
             TrieNode* curr = Root;
-            for(char ch:s){
+            for(char ch : s){
                 if(curr->children[ch - 'a'] == nullptr){
                     curr->children[ch - 'a'] = new TrieNode();
                 }
                 curr = curr->children[ch - 'a'];
+                
+                // Cache the first 3 words that pass through this prefix
+                if(curr->suggestions.size() < 3) {
+                    curr->suggestions.push_back(s);
+                }
             }
-            // Store The Whole Word at the Leaf Node
-            curr->word = s;
         }
 
         vector<vector<string>> ans(searchWord.size());
 
-        // Search our Word & Find the Suggested Word with this Prefix
+        // 3. Search is now instant O(1) retrieval per character
         TrieNode* curr = Root;
-        for(int i=0;i<searchWord.size();i++){
+        for(int i = 0; i < searchWord.size(); i++){
             char ch = searchWord[i];
             if(curr->children[ch - 'a'] != nullptr){
                 curr = curr->children[ch - 'a'];
-                helper(curr,ans,i);
+                ans[i] = curr->suggestions; // Just grab the cached list!
             }
             else{
-                break;
+                break; // Prefix not found, remaining vectors stay empty
             }
         }
 

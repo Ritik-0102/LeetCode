@@ -1,19 +1,26 @@
 class Solution {
 public:
+    int dp[1005][1005];
+
     bool isPalindrome(const string& s , int i , int j){
-        while(i < j){
-            if(s[i] != s[j]){
-                return false;
-            }
-            i++;
-            j--;
+        if(i > j){
+            return dp[i+1][j+1] = true;
         }
 
-        return true;
+        if(s[i] != s[j]){
+            return dp[i+1][j+1] = false;
+        }
+
+        if(dp[i+1][j+1] != -1){
+            return dp[i+1][j+1];
+        }
+
+        return dp[i+1][j+1] = isPalindrome(s,i+1,j-1);
     }
 
     string longestPalindrome(string s) {
         int n = s.size();
+        memset(dp,-1,sizeof(dp));
                 
         string longest = s.substr(0, 1); // At least the first character is a palindrome
 

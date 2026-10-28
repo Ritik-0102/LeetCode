@@ -22,20 +22,16 @@ public:
         int n = s.size();
         memset(dp,-1,sizeof(dp));
 
-        vector<string> ans;
-                
-        // At least the first character is a palindrome
-        int maxLen = 1;
-        int start = 0;
-
+        int ans = 0;
+        
         for(int i=0;i<n;i++){
             for(int j = n-1 ; j >= i ; j--){
                 if(isPalindrome(s,i,j)){
-                    ans.push_back(s.substr(i,j - i + 1));
+                    ans++;
                 }
             }
         }
 
-        return ans.size();
+        return ans;
     }
 };

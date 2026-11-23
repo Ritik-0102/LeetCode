@@ -1,0 +1,29 @@
+class Solution {
+    private boolean helper(int[] nums,int i,int[] dp){
+        if(i >= nums.length - 1){
+            dp[i] = 1;
+            return true;
+        }
+
+        if(dp[i] != -1){
+            return dp[i] == 1;
+        }
+
+        for(int jump = 1 ; jump <= nums[i] ; jump++){
+            if(helper(nums,i + jump,dp)){
+                dp[i] = 1;
+                return true;
+            }
+        }
+
+        dp[i] = 0;
+        return false;
+    }
+
+    public boolean canJump(int[] nums) {
+        int dp[] = new int[nums.length];
+        Arrays.fill(dp,-1);
+
+        return helper(nums,0,dp);
+    }
+}
